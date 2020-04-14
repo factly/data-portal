@@ -1,0 +1,12 @@
+[submodule "data-portal-api"]
+	path = data-portal-api
+	url = https://github.com/factly/data-portal-api
+[submodule "data-portal-admin"]
+	path = data-portal-admin
+	url = https://github.com/factly/data-portal-admin
+[submodule "dega-identity"]
+	path = dega-identity
+	url = https://github.com/factly/dega-identity
+[submodule "dega-identity-api"]
+	path = dega-identity-api
+	url = https://github.com/factly/dega-identity-api
